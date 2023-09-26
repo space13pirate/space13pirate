@@ -20,3 +20,6 @@
 </div>
 
 ### :computer: About Me :
+
+- :ghost: 22 y.o.
+- :ledger: I'm a student of Kazan State Power Engineering University (KSPEU)
