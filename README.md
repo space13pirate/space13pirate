@@ -1,7 +1,9 @@
+<!-- Гифка -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="150"/>
 </div>
 
+<!-- Ссылки на соц. сети -->
 <div id="badges" align="center">
   <a href="https://t.me/space13pirate">
     <img src="https://img.shields.io/badge/Telegram-27A3E2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -14,11 +16,13 @@
   </a>
 </div>
 
+<!-- Приветствие -->
 <div id="header" align="center">
   <b> Hello, I'm Anastasia! </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </div>
 
+<!-- Обо мне -->
 ### :computer: About Me :
 
 - :ghost: 22 y.o.
