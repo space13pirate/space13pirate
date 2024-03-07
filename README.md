@@ -22,6 +22,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </div>
 
+---
+
 <!-- Обо мне -->
 ### :woman_technologist: About Me :
 
@@ -30,96 +32,49 @@
 - :pirate_flag: Currently, I'm a space pirate in the vast universe of programming.
 - :ninja: I aspire to become a programming ninja.
 
+---
+
 <!-- Языки, фреймворки, базы данных и инструменты -->
 ### :desktop_computer: Programming Languages
 
 <div id="devicon"> 
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">HTML</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">CSS</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">JavaScript</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">PHP</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">Python</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">C++</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C Sharp" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">C#</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">Java</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold; text-align: center;">Dart</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 10px 0px;">
 </div>
 
 ### :hammer_and_wrench: Frameworks
 <div id="devicon"> 
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">ReactJS</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 20px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">Django</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">Flutter</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" style="margin: 5px 10px 10px 0px;">
 </div>
 
 ### :file_cabinet: Databases
 <div id="devicon">
-  <figure style="display: inline-block; margin: 5px 10px 10px 0px; text-align: center;">
-    <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">MySQL</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 10px 0px;">
 </div>
 
 ### :toolbox: Tools
 <div id="devicon">
-  <figure style="display: inline-block; margin: 5px 20px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">Arduino</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 20px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">Android Studio</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 5px 20px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 10px 10px 0px;">
 </div>
 
 ### :gear: DevOps Tools
 <b> Version Control and Repository Management : </b>
 <div id="devicon">
-  <figure style="display: inline-block; margin: 5px 20px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">Git</figcaption>
-  </figure>
-  <figure style="display: inline-block; margin: 5px 20px 10px 0px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50" style="display: block; margin: 0 auto 5px auto;">
-    <figcaption style="font-weight: bold;">GitHub</figcaption>
-  </figure>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" style="margin: 5px 20px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 10px 10px 0px;">
 </div>
+
+---
 
 <!-- Ссылки на соц. сети -->
 ### :pager: Contact me
@@ -166,8 +121,17 @@
   </a>
 </div>
 
-### :fire: My Stats :
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=space13pirate&theme=blueberry&border_radius=25)](https://git.io/streak-stats)
+<details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=space13pirate&layout=compact&theme=blueberry&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+<summary style="margin-top: 20px;">GitHub Profile Stat</summary>
+
+![space13pirate's Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=space13pirate&theme=blueberry)
+
+![space13pirate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=space13pirate&theme=blueberry&border_radius=5&hide_border=true&count_private=true)
+![space13pirate's Stats](https://github-readme-stats.vercel.app/api?username=space13pirate&theme=blueberry&show_icons=true&border_radius=5&hide_border=true&count_private=true)
+
+![space13pirate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=space13pirate&theme=blueberry&show_icons=true&border_radius=5&hide_border=true&layout=compact)
+
+</details>
