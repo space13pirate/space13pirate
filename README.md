@@ -35,21 +35,13 @@
 ### :desktop_computer: Programming Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
 ---
@@ -57,9 +49,7 @@
 ### :hammer_and_wrench: Frameworks
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60" style="margin: 5px 10px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
 ---
@@ -73,7 +63,6 @@
 ### :toolbox: Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 5px 20px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 20px 0px 0px;">
 
 ---
@@ -83,7 +72,6 @@
 #### Version Control and Repository Management :
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" style="margin: 5px 20px 0px 0px;">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 20px 0px 0px;">
 
 ---
