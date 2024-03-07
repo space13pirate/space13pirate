@@ -8,9 +8,11 @@
   <a href="https://www.linkedin.com/in/anastasia-cheremisova-ba692a2b6/">
     <img src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   <a href="https://t.me/space13pirate">
     <img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+
   <a href="https://discord.gg/RHH9qHZJ">
     <img src="https://img.shields.io/badge/-discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
@@ -64,14 +66,14 @@
 ### :toolbox: Tools
 <div id="devicon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 20px 10px 0px;">
 </div>
 
 ### :gear: DevOps Tools
 <b> Version Control and Repository Management : </b>
 <div id="devicon">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 10px 10px 0px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 20px 10px 0px;">
 </div>
 
 ---
@@ -79,43 +81,48 @@
 <!-- Ссылки на соц. сети -->
 ### :pager: Contact me
 
-<div id="header" style="margin-bottom: 5px;">
-  <b> My Social Networks: </b>
+<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
+  <b> My social networks: </b>
 </div>
 <div id="badges">
   <a href="https://twitter.com/north13nastya">
     <img src="https://img.shields.io/badge/-twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
+
   <a href="https://vk.com/north13anastasia">
     <img src="https://img.shields.io/badge/-vk-%230077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+
   <a href="https://www.instagram.com/north13anastasia">
     <img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 
-<div id="header" style="margin-bottom: 5px;">
+<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
   <b> Some videos with my projects: </b>
 </div>
 <div id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/-youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+
   <a href="">
     <img src="https://img.shields.io/badge/-tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
   </a>
 </div>
 
-<div id="header" style="margin-bottom: 5px;">
+<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
   <b> Design: </b>
 </div>
 <div id="badges">
   <a href="https://dribbble.com/space13pirate">
     <img src="https://img.shields.io/badge/-dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
   </a>
+
   <a href="https://www.behance.net/space13pirate">
     <img src="https://img.shields.io/badge/-behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
+
   <a href="https://www.figma.com/@space13pirate">
     <img src="https://img.shields.io/badge/-figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   </a>
@@ -125,11 +132,12 @@
 
 <details>
 
-<summary style="margin-top: 20px;">GitHub Profile Stat</summary>
+<summary style="margin-top: 20px;"><b>GitHub Profile Stat</b></summary>
 
 ![space13pirate's Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=space13pirate&theme=blueberry)
 
 ![space13pirate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=space13pirate&theme=blueberry&border_radius=5&hide_border=true&count_private=true)
+
 ![space13pirate's Stats](https://github-readme-stats.vercel.app/api?username=space13pirate&theme=blueberry&show_icons=true&border_radius=5&hide_border=true&count_private=true)
 
 ![space13pirate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=space13pirate&theme=blueberry&show_icons=true&border_radius=5&hide_border=true&layout=compact)
