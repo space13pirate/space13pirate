@@ -1,9 +1,7 @@
-<!-- Гифка -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="150"/>
 </div>
 
-<!-- Ссылки на соц. сети -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anastasia-cheremisova-ba692a2b6/">
     <img src="https://img.shields.io/badge/-linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +16,6 @@
   </a>
 </div>
 
-<!-- Приветствие -->
 <div id="header" align="center">
   <b> Hello, I'm Anastasia! </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
@@ -26,7 +23,6 @@
 
 ---
 
-<!-- Обо мне -->
 ### :woman_technologist: About Me :
 
 - :ghost: 22 y.o.
@@ -36,97 +32,101 @@
 
 ---
 
-<!-- Языки, фреймворки, базы данных и инструменты -->
 ### :desktop_computer: Programming Languages
 
-<div id="devicon"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
-### :hammer_and_wrench: Frameworks
-<div id="devicon"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
-### :file_cabinet: Databases
-<div id="devicon">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 10px 0px;">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
-### :toolbox: Tools
-<div id="devicon">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
-### :gear: DevOps Tools
-<b> Version Control and Repository Management : </b>
-<div id="devicon">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 20px 10px 0px;">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 0px 0px;">
 
 ---
 
-<!-- Ссылки на соц. сети -->
+### :hammer_and_wrench: Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+---
+
+### :file_cabinet: Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60" style="margin: 5px 10px 0px 0px;">
+
+---
+
+### :toolbox: Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="60" height="60" style="margin: 5px 20px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="60" height="60" style="margin: 5px 20px 0px 0px;">
+
+---
+
+### :gear: DevOps Tools
+
+#### Version Control and Repository Management :
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60" style="margin: 5px 20px 0px 0px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60" style="margin: 5px 20px 0px 0px;">
+
+---
+
 ### :pager: Contact me
 
-<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
-  <b> My social networks: </b>
-</div>
-<div id="badges">
-  <a href="https://twitter.com/north13nastya">
-    <img src="https://img.shields.io/badge/-twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-  </a>
+#### My social networks :
 
-  <a href="https://vk.com/north13anastasia">
-    <img src="https://img.shields.io/badge/-vk-%230077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
+<a href="https://twitter.com/north13nastya">
+  <img src="https://img.shields.io/badge/-twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+</a>
 
-  <a href="https://www.instagram.com/north13anastasia">
-    <img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+<a href="https://vk.com/north13anastasia">
+  <img src="https://img.shields.io/badge/-vk-%230077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+</a>
 
-<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
-  <b> Some videos with my projects: </b>
-</div>
-<div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/-youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
+<a href="https://www.instagram.com/north13anastasia">
+  <img src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 
-  <a href="">
-    <img src="https://img.shields.io/badge/-tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-</div>
+#### Some videos with my projects :
 
-<div id="header" style="margin-top: 15px; margin-bottom: 10px;">
-  <b> Design: </b>
-</div>
-<div id="badges">
-  <a href="https://dribbble.com/space13pirate">
-    <img src="https://img.shields.io/badge/-dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
-  </a>
+<a href="">
+  <img src="https://img.shields.io/badge/-youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+</a>
 
-  <a href="https://www.behance.net/space13pirate">
-    <img src="https://img.shields.io/badge/-behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-  </a>
+<a href="">
+  <img src="https://img.shields.io/badge/-tiktok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
+</a>
 
-  <a href="https://www.figma.com/@space13pirate">
-    <img src="https://img.shields.io/badge/-figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
-  </a>
-</div>
+#### Designs :
+
+<a href="https://dribbble.com/space13pirate">
+  <img src="https://img.shields.io/badge/-dribbble-%23EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+</a>
+
+<a href="https://www.behance.net/space13pirate">
+  <img src="https://img.shields.io/badge/-behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+</a>
+
+<a href="https://www.figma.com/@space13pirate">
+  <img src="https://img.shields.io/badge/-figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+</a>
 
 ---
 
