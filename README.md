@@ -25,7 +25,7 @@
 
 ### :woman_technologist: About Me :
 
-- :ghost: 22 y.o.
+- :ghost: 23 y.o.
 - :ledger: I'm a student of Kazan State Power Engineering University (KSPEU).
 - :pirate_flag: Currently, I'm a space pirate in the vast universe of programming.
 - :ninja: I aspire to become a programming ninja.
